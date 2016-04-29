@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace Bioteg\Jobs;
 
 use Illuminate\Bus\Queueable;
 
